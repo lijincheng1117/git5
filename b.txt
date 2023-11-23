@@ -1,1 +1,2 @@
 local
+hello, i am your new teammate!
